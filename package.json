@@ -1,0 +1,11 @@
+{
+  "name": "aoc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rudiseelig/aoc.git",
+  "author": "Rudi Seelig <rudiseelig@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash.range": "^3.2.0"
+  }
+}
