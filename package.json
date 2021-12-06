@@ -6,6 +6,7 @@
   "author": "Rudi Seelig <rudiseelig@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "lodash": "^4.17.21",
     "lodash.range": "^3.2.0"
   }
 }
